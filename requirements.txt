@@ -1,0 +1,5 @@
+redis-py-cluster
+python-snappy
+boto3==1.21.21
+pandas
+awswrangler
